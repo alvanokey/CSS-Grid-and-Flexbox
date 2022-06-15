@@ -1,0 +1,58 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+main {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.Sedans {
+    color: white;
+    background-color: rgb(255, 173, 21);
+    height: 400px;
+    padding: 1rem;
+
+}
+
+.Suvs {
+    color: white;
+    background-color: rgb(5, 105, 105);
+    height: 400px;
+    padding: 1rem;
+
+}
+
+.Luxury {
+    color: white;
+    background-color: rgb(1, 43, 43);
+    height: 400px;
+    padding: 1rem;
+}
+
+h1 {
+    padding-top: 1rem;
+}
+
+p {
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+}
+
+button {
+    border-radius: 15px;
+    border: 1px;
+    padding: 7px;
+    letter-spacing: 1px;
+}
